@@ -1,2 +1,2 @@
 # experimental-methods
-Repository of data analysis for Experimental Methods laboratory experiments.
+Data analysis repository for Experimental Methods physics laboratory experiments.
